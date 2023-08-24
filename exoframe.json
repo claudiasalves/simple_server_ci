@@ -1,5 +1,5 @@
 {
   "name": "simple_server",
   "domain": "claudia-simple.xf.mkrs.link",
-  "port": "5006"
+  "port": "5000"
 }
